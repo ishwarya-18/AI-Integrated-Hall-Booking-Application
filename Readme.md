@@ -2,6 +2,8 @@
 
 A web-based hall booking management system for Bannari Amman Institute of Technology (BIT). This application allows users to book college halls, check availability, and submit feedback.
 
+<img width="1292" height="594" alt="Group 1" src="https://github.com/user-attachments/assets/c7005acf-f165-47f3-b79a-97780d5f8365" />
+
 ## Features
 
 - **User Authentication**: Secure login and signup with JWT-based authentication
